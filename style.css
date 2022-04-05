@@ -1,0 +1,28 @@
+img{
+    width: 400px;
+    height: 600px;
+}
+
+/* 
+Tutorial Link: https://www.youtube.com/watch?v=MJXNX3kdNS0
+*/
+
+/* Animate properties
+---------------------
+
+animation-name
+animation-duration
+animation-timing-function
+animation-delay
+aniumation-iteration-count
+animation-direction
+animation-fill-mode
+animation-play-state
+animation
+
+*/
+
+@keyframes animation-name{
+    from{ CSS Properties }
+    to{ CSS Properties }
+}
