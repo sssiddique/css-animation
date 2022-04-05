@@ -26,3 +26,15 @@ animation
     from{ CSS Properties }
     to{ CSS Properties }
 }
+/*  Animation timing Function
+
+ease = slow start, then fasrm then end slowly
+linear = same speed from start to end
+ease-in = slow start
+ease-in-out = slow start and end
+step-start = Equivalent to steps (1, start)
+step-end = Equivalent to steps (1, end)
+steps(#, start/end)
+cubic-beizer = lets you define your own values (0 to 1)
+
+*/
